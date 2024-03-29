@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulnoize
 - 👀 I’m interested in movil apps and web developer 
-- 🌱 I’m currently learning python / js / dart 
+- 🌱 I’m currently learning python / js  
 - 💞️ I’m looking to collaborate on science project
 - 📫 How to reach me paul_noize@icloud.com
 
